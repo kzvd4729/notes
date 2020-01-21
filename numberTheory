@@ -1,2 +1,8 @@
+//..............................................................................
 --> sum of integer co-prime with n: n*phi(n)/2 for n>1
 --> if d divides n then there are phi(n/d) i(<=n) such thah gcd(i,n)=d
+--> multiplicative function: f(a*b)=f(a)*f(b) where gcd(a,b)=1.
+--> number of divisors = (e1+1)*(e2+1)*(e3+1)...,where e is power of prime.
+    NOD is multiplicative.
+--> sum of divisors = (p1^(e1+1) - 1)/(p1 - 1)*(p2^(e2+1) - 1)/(p2 - 1)....,
+    SOD is multiplicative.
