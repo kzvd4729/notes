@@ -1,6 +1,5 @@
 //..............................................................................
 --> number of ways to make n using k non negative integers (n+k-1)C(n).
-
 --> burnside lemma: burnside lemma solves counting problem where rotation,
 reflection,symmetry comes into account. there can be 0,90,180,270 degree
 rotation and reflection along x or y exis and so on. then total distinct counting
