@@ -7,4 +7,4 @@ by ommiting rotation,symmetry is the average of all counting.
 (how many permutation doesnt change after 0 degree ratotaion)+(how many 
 permutation doesnt change after 90 degree ratotaion)+(how many permutation doesnt 
 change after 270 degree ratotaion)+ .... /number of group.
---> catalan number: 1/(n+1) * (2n)C(n)
+--> catalan number: 1/(n+1) * (2n)C(n)  (n=number of opening bracket)
