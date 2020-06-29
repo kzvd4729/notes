@@ -8,3 +8,5 @@ by ommiting rotation,symmetry is the average of all counting.
 permutation doesnt change after 90 degree ratotaion)+(how many permutation doesnt 
 change after 270 degree ratotaion)+ .... /number of group.
 --> catalan number: 1/(n+1) * (2n)C(n)  (n=number of opening bracket)
+--> linerity of expected vlaue: no matter what(dependent or not) E(x+y)=E(x)+E(y).
+on the other hand E(xy)=E(x)E(y) only if x and y are independent.
